@@ -1,4 +1,4 @@
-# SearchingAlgorithms 
+# Searching Algorithms 
 
 ## Overview:
  Aim of this project is to have all the sorting algorithms in one place in java language. <br/> <br/>
